@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Table</string>
+    <string name="enterTable">Enter Table</string>
+    <string name="editText"></string>
+    <string name="sub">Show Table</string>
+    <string name="displayTable"/>
+</resources>
